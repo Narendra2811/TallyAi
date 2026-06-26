@@ -13,6 +13,18 @@ The goal is simple: **make financial information easier to understand without ch
 
 ---
 
+## 📸 Application Preview
+
+### Home Screen -
+
+![Architecture](docs/images/home.png)
+
+### Chat Interface
+
+![Architecture](docs/images/chat.png)
+
+Ask questions in plain English and receive business insights, charts, and supporting source records.
+
 ## Why TallyAI?
 
 Small and medium businesses rely heavily on Tally, but getting business insights usually involves:
