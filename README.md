@@ -13,6 +13,18 @@ The goal is simple: **make financial information easier to understand without ch
 
 ---
 
+# 🎥 Live Demo
+
+> **Watch the complete 3–5 minute walkthrough of TallyAI in action.**
+
+<p align="center">
+
+### **https://youtu.be/FIcYu8Wc0dM**
+
+</p>
+
+---
+
 ## 📸 Application Preview
 
 ### Home Screen -
@@ -94,22 +106,28 @@ Instead of sending the complete Tally export to the language model, only the rec
 tally-ai/
 │
 ├── backend/
+│   ├── app/
+│   ├── chroma_db/
+│   ├── uploads/
+│   └── requirements.txt
+│
 ├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── hooks/
+│   │   ├── pages/
+│   │   └── utils/
+│   └── package.json
 │
 ├── docs/
+│   ├── images/
 │   ├── architecture.md
 │   ├── product-thinking.md
 │   ├── product-ownership.md
-│   └── setup.md
-│
-├── screenshots/
-│   ├── architecture.png
-│   ├── home.png
-│   ├── upload.png
-│   └── answer.png
+│   └── SETUP.md
 │
 ├── README.md
-├── LICENSE
 └── .gitignore
 ```
 
